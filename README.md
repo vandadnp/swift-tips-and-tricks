@@ -1,10 +1,10 @@
 # Table of Contents
 
-* [Async Getters in Swift 5.5+]
-* [Custom `Sequence` in Swift](https://github.com/vandadnp/swift-tips-and-tricks/blob/main/README.md#custom-sequence-in-swift)
-* [Sum of Any Numeric Types in Swift](https://github.com/vandadnp/swift-tips-and-tricks/blob/main/README.md#sum-of-any-numeric-types-in-swift)
-* [Finding Elements of Specific Type in Swift](https://github.com/vandadnp/swift-tips-and-tricks/blob/main/README.md#finding-elements-of-specific-type-in-swift)
-* [Synthesized Raw Enum Values in Swift](https://github.com/vandadnp/swift-tips-and-tricks/blob/main/README.md#synthesized-raw-enum-values-in-swift)
+* [Async Getters in Swift 5.5+](#async-getters-in-swift-55)
+* [Custom `Sequence` in Swift](#custom-sequence-in-swift)
+* [Sum of Any Numeric Types in Swift](#sum-of-any-numeric-types-in-swift)
+* [Finding Elements of Specific Type in Swift](#finding-elements-of-specific-type-in-swift)
+* [Synthesized Raw Enum Values in Swift](#synthesized-raw-enum-values-in-swift)
 
 # Async Getters in Swift 5.5+
 
