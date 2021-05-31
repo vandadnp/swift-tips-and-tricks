@@ -9,7 +9,7 @@
 
 # Actors in Swift 5.5+
 
-![](images/actors-in-swift-5-5)
+![](images/actors-in-swift-5-5.jpg)
 
 # Async Getters in Swift 5.5+
 
