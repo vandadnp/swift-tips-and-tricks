@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Actors in Swift 5.5+)(#actors-in-swift-55)
+* [Actors in Swift 5.5+](#actors-in-swift-55)
 * [Async Getters in Swift 5.5+](#async-getters-in-swift-55)
 * [Custom `Sequence` in Swift](#custom-sequence-in-swift)
 * [Sum of Any Numeric Types in Swift](#sum-of-any-numeric-types-in-swift)
