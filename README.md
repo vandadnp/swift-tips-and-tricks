@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Property Wrappers in Swift 5.5+](#property-wrappers-in-swift-55)
 * [Lazy Local Variables in Swift 5.5+](#lazy-local-variables-in-swift-55)
 * [Actors in Swift 5.5+](#actors-in-swift-55)
 * [Async Getters in Swift 5.5+](#async-getters-in-swift-55)
@@ -7,6 +8,10 @@
 * [Sum of Any Numeric Types in Swift](#sum-of-any-numeric-types-in-swift)
 * [Finding Elements of Specific Type in Swift](#finding-elements-of-specific-type-in-swift)
 * [Synthesized Raw Enum Values in Swift](#synthesized-raw-enum-values-in-swift)
+
+# Property Wrappers in Swift 5.5+
+
+![](images/property-wrappers-in-swift-5-5.jpg)
 
 # Lazy Local Variables in Swift 5.5+
 
