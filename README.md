@@ -12,7 +12,7 @@
 
 # Finding Objects in `Array<T>` in Swift Using Key Paths
 
-[Source Code](source/finding-objects-in-arrayt-in-swift-using-key-paths.dart)
+[Source Code](source/finding-objects-in-arrayt-in-swift-using-key-paths.swift)
 
 ![](images/finding-objects-in-arrayt-in-swift-using-key-paths.jpg)
 
