@@ -2,4 +2,4 @@
 
 [Source Code](../source/rotating-arrays-in-swift.swift)
 
-![](../images/rotating-arrays-in-swift.jgp)
+![](../images/rotating-arrays-in-swift.jpg)
