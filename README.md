@@ -1,5 +1,6 @@
 # Table of Contents
 
+* [Specific Imports in Swift](#specific-imports-in-swift)
 * [Rotating Arrays in Swift](#rotating-arrays-in-swift)
 * [Finding Objects in `Array<T>` in Swift Using Key Paths](#finding-objects-in-arrayt-in-swift-using-key-paths)
 * [Property Wrappers in Swift 5.5+](#property-wrappers-in-swift-55)
@@ -10,6 +11,12 @@
 * [Sum of Any Numeric Types in Swift](#sum-of-any-numeric-types-in-swift)
 * [Finding Elements of Specific Type in Swift](#finding-elements-of-specific-type-in-swift)
 * [Synthesized Raw Enum Values in Swift](#synthesized-raw-enum-values-in-swift)
+
+# Specific Imports in Swift
+
+[Source Code](source/specific-imports-in-swift.swift)
+
+![](images/specific-imports-in-swift.jpg)
 
 # Rotating Arrays in Swift
 
